@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697480347773",
+    "project_id": "parksavvy-7dd4f",
+    "storage_bucket": "parksavvy-7dd4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697480347773:android:e60701c2ee6d52d7397114",
+        "android_client_info": {
+          "package_name": "com.example.park"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9k1KKHIokGm6SaQOqZzaRKZ8-1zFA4zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
